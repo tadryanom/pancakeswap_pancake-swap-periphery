@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL3
 pragma solidity >=0.6.2;
 
 interface IPancakeRouter01 {
